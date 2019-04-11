@@ -1,0 +1,1 @@
+document.write('<script type="text/javascript" src="//goraps.com/pun.php?section=General&pt=6&pub=696114&ga=g"></script>');
